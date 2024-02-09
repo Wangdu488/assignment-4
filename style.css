@@ -1,0 +1,44 @@
+*
+{
+    padding: 0;
+    box-sizing: border-box;
+    margin: auto;
+}
+.main header h1
+{
+    text-align: center;
+    margin: 15px auto;
+    color: blue;
+    font-size: 42px;
+    font-weight: 600;
+}
+body
+{
+    background-color: yellow;
+}
+.main
+{
+    width: 700px;
+    border: 2px solid black;
+    background-color: purple;
+}
+.image-container
+{
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.image-container img
+{
+    width: 100%;
+}
+.text-container
+{
+    margin: 10px 25px;
+    font-size: 18px;
+}
+.text-container h4
+{
+    margin: 15px 0;
+    text-decoration: underline;
+}
